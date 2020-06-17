@@ -2,7 +2,7 @@
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/cspencerjones/vertical_regridding/master)
 
-** C Spencer Jones1, Julius Busecke2, Takaya Uchida3, Ryan Abernathey **
+*C Spencer Jones1, Julius Busecke2, Takaya Uchida3, Ryan Abernathey*
 
 Many ocean and climate models output ocean variables (like velocity, temperature, oxygen concentration etc.) in depth space. Property transport in the ocean generally follows isopycnals, but isopycnals often move up and down in depth space. A small difference in the vertical location of isopycnals between experiments can cause a large apparent difference in ocean properties when the experiments are compared in depth space. As a result, it is often useful to compare ocean variables in density space.
 
